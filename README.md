@@ -112,6 +112,7 @@ After we Extract, Transform and Load our Crowfunding Pipeline project here are t
 
 > **Category:** there are 9 Different categories.
 <p align='center'> <img src='images/Category.jpg'></p>
+<p align='center'> <img src='Crowdfunding_ETL/blob/main/Images/Category.jpg'></p>
 
 > **Subcategory:** there are 24 different subcategories of the 9 categories.
 <p align='center'> <img src='images/Subcategory.jpg'></p>
