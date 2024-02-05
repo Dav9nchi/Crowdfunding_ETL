@@ -28,36 +28,32 @@ The instructions for this mini project are divided into the following subsection
     4. Create the Crowdfunding Database.
 
 ### <center> 1. Create the Category and Subcategory DataFrames
-Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
+Extract and transform the `crowdfunding.xlsx` Excel data to create a category DataFrame that has the following columns:
 
-1.1 "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
+1.1 **"category_id"** column that has entries going sequentially from **"cat1"** to **"catn"**, where n is the number of unique categories
 
-1.2. "category" column that contains only the category titles
+1.2. **"category"** column that contains only the category titles
 
-1.3 Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
+1.3 Export the subcategory DataFrame as **subcategory.csv** and save it to your GitHub repository.
 
 ### <center> 2. Create the Campaign DataFrame
 
 2.1 Extract and transform the crowdfunding.xlsx Excel data to create a campaign DataFrame has the following columns:
 
-    The "cf_id" column
-    The "contact_id" column
-    The "company_name" column
-    he "blurb" column, renamed to "description"
-    The "goal" column, converted to the float data type
-    The "pledged" column, converted to the float data type
-    The "outcome" column
-    The "backers_count" column
-    The "country" column
-    The "currency" column
-
-    The "launched_at" column, renamed to "launch_date" and with the UTC times converted to the datetime format
-
-    The "deadline" column, renamed to "end_date" and with the UTC times converted to the datetime format
-
-    The "category_id" column, with unique identification numbers matching those in the "category_id" column of the category DataFrame
-
-    The "subcategory_id" column, with the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
+    -The "cf_id" column
+    -The "contact_id" column
+    -The "company_name" column
+    -he "blurb" column, renamed to "description"
+    -The "goal" column, converted to the float data type
+    -The "pledged" column, converted to the float data type
+    -The "outcome" column
+    -The "backers_count" column
+    -The "country" column
+    -The "currency" column
+    -The "launched_at" column, renamed to "launch_date" and with the UTC times converted to the datetime format
+    -The "deadline" column, renamed to "end_date" and with the UTC times converted to the datetime format
+    -The "category_id" column, with unique identification numbers matching those in the "category_id" column of the category DataFrame
+    -The "subcategory_id" column, with the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
 
 2.2 Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
 
@@ -90,20 +86,13 @@ If you chose Option 2, complete the following steps:
 ### <center> 4. Create the Crowdfunding Database
 
     1. Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBD Links to an external site..
-
     2. Use the information from the ERD to create a table schema for each CSV file.
         Note: Remember to specify the data types, primary keys, foreign keys, and other constraints.
-
     3. Save the database schema as a Postgres file named crowdfunding_db_schema.sql, and save it to your GitHub repository.
-
     4. Create a new Postgres database, named crowdfunding_db.
-
     5. Using the database schema, create the tables in the correct order to handle the foreign keys.
-
     6. Verify the table creation by running a SELECT statement for each table.
-
     7. Import each CSV file into its corresponding SQL table.
-
     8. Verify that each table has the correct data by running a SELECT statement for each.
 ****
 ## Results
