@@ -111,8 +111,7 @@ If you chose Option 2, complete the following steps:
 After we Extract, Transform and Load our Crowfunding Pipeline project here are the results from `Postgres` of each Data frame `Category, Subcategory, Contacts & Campaing`, from the crowdfunding dataset we extract the following results:
 
 > **Category:** there are 9 Different categories.
-<p align='center'> <img src='images/Category.jpg'></p>
-<p align='center'> <img src='Crowdfunding_ETL/blob/main/Images/Category.jpg'></p>
+<p align='center'> <img src="https://github.com/Dav9nchi/Crowdfunding_ETL/blob/main/Images/Category.jpg"></p>
 
 > **Subcategory:** there are 24 different subcategories of the 9 categories.
 <p align='center'> <img src='images/Subcategory.jpg'></p>
