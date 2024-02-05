@@ -114,13 +114,13 @@ After we Extract, Transform and Load our Crowfunding Pipeline project here are t
 <p align='center'> <img src="https://github.com/Dav9nchi/Crowdfunding_ETL/blob/main/Images/Category.jpg"></p>
 
 > **Subcategory:** there are 24 different subcategories of the 9 categories.
-<p align='center'> <img src='images/Subcategory.jpg'></p>
+<p align='center'> <img src="https://github.com/Dav9nchi/Crowdfunding_ETL/blob/main/Images/Subcategory.jpg"></p>
 
 > **Contacts:** we count with 1000 Different contacts.
-<p align='center'> <img src='images/Contacts.jpg'></p>
+<p align='center'> <img src='https://github.com/Dav9nchi/Crowdfunding_ETL/blob/main/Images/Contacts.jpg'></p>
 
 > **Campaign:** in the following screenshot we have all the companies and their descriptions of the crowdfunding including their respective **Goal, pledged, outcome of campaign, country, currency, their time frame where it was launched and where it ends and last to which category and subcatefory belongs to**
-<p align='center'> <img src='images/Compaing.jpg'></p>
+<p align='center'> <img src='https://github.com/Dav9nchi/Crowdfunding_ETL/blob/main/Images/Compaing.jpg'></p>
 
 This seccion of the report (Results) also includes our ERD (entity-relationship diagram) of our 4 Dataframes adding their respective Data types, Primary keys and foreign keys for each one of them.
 
