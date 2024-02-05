@@ -128,10 +128,5 @@ This seccion of the report (Results) also includes our ERD (entity-relationship 
 
 <p align='center'> <img src='images/ERD.jpg'></p>
 
-![alt text](images/ERD.jpg)
-
-
 ## Credits
 > The research support comes from Google, Chat Gpt, AskBCS, Teacher, TA, Tutors.
-
-
