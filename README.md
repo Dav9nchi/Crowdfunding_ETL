@@ -126,7 +126,7 @@ This seccion of the report (Results) also includes our ERD (entity-relationship 
 
 > **ERD:(entity-relationship diagram)** The 3 different Dataframes Category, Subcategory and contacts relates with the major Campaing dataframe providing their unique information and make it more accesible.
 
-<p align='center'> <img src='images/ERD.jpg'></p>
+<p align='center'> <img src='https://github.com/Dav9nchi/Crowdfunding_ETL/blob/main/Images/ERD.jpg'></p>
 
 ## Credits
 > The research support comes from Google, Chat Gpt, AskBCS, Teacher, TA, Tutors.
