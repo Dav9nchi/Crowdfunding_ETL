@@ -111,22 +111,22 @@ If you chose Option 2, complete the following steps:
 After we Extract, Transform and Load our Crowfunding Pipeline project here are the results from `Postgres` of each Data frame `Category, Subcategory, Contacts & Campaing`, from the crowdfunding dataset we extract the following results:
 
 > **Category:** there are 9 Different categories.
-<p align='center'> <img src='images/Category.png'></p>
+<p align='center'> <img src='images/Category.jpg'></p>
 
 > **Subcategory:** there are 24 different subcategories of the 9 categories.
-<p align='center'> <img src='images/Subcategory.png'></p>
+<p align='center'> <img src='images/Subcategory.jpg'></p>
 
 > **Contacts:** we count with 1000 Different contacts.
-<p align='center'> <img src='images/Contacts.png'></p>
+<p align='center'> <img src='images/Contacts.jpg'></p>
 
 > **Campaign:** in the following screenshot we have all the companies and their descriptions of the crowdfunding including their respective **Goal, pledged, outcome of campaign, country, currency, their time frame where it was launched and where it ends and last to which category and subcatefory belongs to**
-<p align='center'> <img src='images/Compaing.png'></p>
+<p align='center'> <img src='images/Compaing.jpg'></p>
 
 This seccion of the report (Results) also includes our ERD (entity-relationship diagram) of our 4 Dataframes adding their respective Data types, Primary keys and foreign keys for each one of them.
 
 > **ERD:(entity-relationship diagram)** The 3 different Dataframes Category, Subcategory and contacts relates with the major Campaing dataframe providing their unique information and make it more accesible.
 
-<p align='center'> <img src='images/ERD.png'></p>
+<p align='center'> <img src='images/ERD.jpg'></p>
 
 
 ## Credits
