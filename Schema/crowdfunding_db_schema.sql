@@ -9,7 +9,7 @@ select * from Campaing;
 
 -- ** Create Table Campaing ** --
 CREATE TABLE Campaing (
-    cf_id	 	INTEGER     PRIMARY KEY 	NOT NULL,
+    cf_id	 	INTEGER      PRIMARY KEY 			NOT NULL,
     contact_id	 	INTEGER		   				NOT NULL,
     company_name 	VARCHAR   					NOT NULL,
     description 	VARCHAR   					NOT NULL,
